@@ -1,5 +1,5 @@
-import { Module } from '@nestjs/common';
-import { OrientationService } from 'src/services/orientation.service';
+import { Module } from "@nestjs/common";
+import { OrientationService } from "../services/orientation.service";
 
 @Module({
   imports: [],
